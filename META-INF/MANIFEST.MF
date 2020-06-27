@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: com.ndtech.magicdraw
+Bundle-ManifestVersion: 2
+Bundle-Name: ndtech-magicdraw-test
+Bundle-SymbolicName: ndtech-magicdraw-test
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: com.nomagic.magicdraw;bundle-version="17.0.5"
