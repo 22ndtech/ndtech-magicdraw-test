@@ -5,6 +5,6 @@ import com.nomagic.magicdraw.tests.MagicDrawTestCase;
 public class MainPluginMagicDrawTestCaseSample extends MagicDrawTestCase{
 
 	public void testPluginInitialized() {
-		assertTrue(MainPlugin.initialized);
+		assertTrue(MainPlugin.m_initialized);
 	}
 }

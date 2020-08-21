@@ -12,6 +12,6 @@ public class MainPluginJUnitExtendWithSample
     @Test
     void testPluginInitialized()
     {
-        assertTrue(MainPlugin.initialized);
+        assertTrue(MainPlugin.m_initialized);
     }
 }
